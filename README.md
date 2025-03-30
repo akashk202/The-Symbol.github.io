@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Krishna</h1>
 <h3 align="center">A passionate Backend developer and also Junior Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=The-Symbol&label=Profile%20views&color=0e75b6&style=flat" alt="The-Symbol" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash202&label=Profile%20views&color=0e75b6&style=flat" alt="akash202" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=The-Symbol" alt="The-Symbol" /></a> </p>
 
