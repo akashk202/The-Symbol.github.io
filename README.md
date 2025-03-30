@@ -13,5 +13,5 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Symbol&show_icons=true&theme=radical)  
 
 ### 📫 How to Reach Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/akash-krishna-a05b70209/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/akash-krishna-a05b70209/)) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashkrishna389@gmail.com)  
